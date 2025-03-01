@@ -15,7 +15,6 @@ function Band({name, members, albums} : {name: string, members: string, albums: 
 
   return (
     <>
-      <img></img>
       <h2>{name}</h2>
       <h2>Members: {members}</h2>
       <h2>Albums: {albums}</h2>
